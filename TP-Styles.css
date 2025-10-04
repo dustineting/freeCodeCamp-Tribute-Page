@@ -1,0 +1,43 @@
+body {
+  background: linear-gradient(#101010, #500000);
+}
+
+#title {
+  color: white;
+  text-align: center;
+  font-family: "Book Antiqua", serif;
+  font-size: 50px;
+  background: linear-gradient(to right, #600000, #400000);
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+figcaption {
+  padding-top: 10px;
+  color: white;
+  text-align: center;
+  font-family: "Book Antiqua", serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: Garamond, serif;
+  font-size: 20px;
+}
+
+a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-family: Garamond, serif;
+  font-size: 20px;
+  font-style: italic;
+}
